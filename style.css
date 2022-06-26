@@ -1,0 +1,176 @@
+
+body{
+    font-family: Segoe UI;
+}
+
+#Tlink{
+    margin-left: 1350px;
+    margin-top: 25px;
+}
+
+#Uimage{
+    margin-left: 1500px;
+    margin-top: -30px;
+
+}
+
+#Gimage{
+    margin-left: 540px;
+    margin-top: 160px;
+}
+
+#schT{
+    margin-left: 480px;
+    margin-top: 25px;
+    color: rgb(67, 67, 67);
+    font-size: large;
+}
+#sch{
+height: 55px;
+width: 630px;
+background-color: white;
+border-radius: 100px;
+margin-left: 430px;
+margin-top: -36px;
+border: 1px solid rgb(219, 219, 219);
+}
+#square1{
+    background-color: red;
+    height: 80px;
+    width: 80px;
+    color: white;
+    padding: 10px;
+}
+
+#square2{
+    background-color: orange;
+    height: 80px;
+    width: 80px;
+    color: white;
+    padding: 10px;
+    margin-left: 5px;
+    
+}
+
+#square3{
+    background-color: blueviolet;
+    height: 80px;
+    width: 80px;
+    color: white;
+    padding: 10px;
+    margin-left: 5px;
+    
+}
+#square4{
+    background-color: blue;
+    height: 80px;
+    width: 80px;
+    color: white;
+    padding: 10px;
+    margin-left: 5px;
+    
+}
+
+#square5{
+    background-color: green;
+    height: 80px;
+    width: 80px;
+    color: white;
+    padding: 10px;
+    margin-left: 5px;
+    
+}
+
+#square6{
+    background-color: gray;
+    height: 80px;
+    width: 80px;
+    color: white;
+    padding: 10px;
+    margin-left: 5px;
+    
+}
+
+#square1, #square2, #square3, #square4,
+#square5, #square6 {
+    border-radius: 5px;
+}
+
+#square1b{
+    background-color: rgb(114, 15, 15);
+    height: 80px;
+    width: 80px;
+    color: white;
+    padding: 10px;
+    margin-top: 5px;
+}
+
+#square2b{
+    background-color: rgb(29, 125, 132);
+    height: 80px;
+    width: 80px;
+    color: white;
+    padding: 10px;
+    margin-left: 5px;
+    margin-top: 5px;
+    
+}
+
+#square3b{
+    background-color: rgb(211, 49, 138);
+    height: 80px;
+    width: 80px;
+    color: white;
+    padding: 10px;
+    margin-left: 5px;
+    margin-top: 5px;
+    
+}
+#square4b{
+    background-color: rgb(102, 102, 224);
+    height: 80px;
+    width: 80px;
+    color: white;
+    padding: 10px;
+    margin-left: 5px;
+    margin-top: 5px;
+    
+}
+
+#square5b{
+    background-color: rgb(128, 223, 128);
+    height: 80px;
+    width: 80px;
+    color: white;
+    padding: 10px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+#square6b{
+    background-color: skyblue;
+    height: 80px;
+    width: 80px;
+    color: white;
+    padding: 10px;
+    margin-left: 5px;
+    margin-top: 5px;
+    
+}
+
+#square1b, #square2b, #square3b, #square4b,
+#square5b, #square6b {
+    border-radius: 5px;
+}
+
+.cont{
+    display: flex;
+    margin-left: 430px;
+    margin-top: 20px;
+}
+
+.contb{
+    display: flex;
+    margin-left: 430px;
+    margin-top: 5px;
+}
